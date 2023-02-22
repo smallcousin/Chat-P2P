@@ -1,0 +1,23 @@
+
+l
+java:S1104"VMake serverPort a static final constant or non-public and provide accessors if needed.(è‡÷Š
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(Ã¼ê‚
+h
+java:S1104"RMake wechat a static final constant or non-public and provide accessors if needed.(‘¢Óà
+F
+java:S1444"0Make this "public static serverPort" field final(è‡÷Š
+@
+java:S1444"*Make this "public static name" field final(Ã¼ê‚
+B
+java:S1444",Make this "public static wechat" field final(‘¢Óà
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹
+t	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ú‡êıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Óùÿ¿
+D
+java:S2140	")Use "java.util.Random.nextInt()" instead.(ú‡êıÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(‡ÃéÀøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.( È¶à
+V	java:S125"<This block of commented-out lines of code should be removed.(éÓŠèøÿÿÿÿ

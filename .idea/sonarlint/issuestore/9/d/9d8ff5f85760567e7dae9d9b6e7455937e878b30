@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(”ŒÒşÿÿÿÿ
+C
+java:S5411"(Use a primitive boolean expression here.(ıü‡Ìûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Àå³
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(µÅŠãşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(æ¾Ùÿÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(â£î
+Q	java:S125$"<This block of commented-out lines of code should be removed.(ú…½‹
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(–Îâ‘
+V	java:S1254"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(èû›Ğûÿÿÿÿ

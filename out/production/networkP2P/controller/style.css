@@ -1,0 +1,9 @@
+.list-cell {
+    -fx-background-color:#FFFAFA
+}
+.list-cell:selected {
+    -fx-background-color: #C1CDC1;
+}
+.ListView {
+    -fx-background-color: white;
+}

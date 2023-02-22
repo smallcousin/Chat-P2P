@@ -1,0 +1,33 @@
+
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆø¿»şÿÿÿÿ
+>
+java:S16042"(Make this anonymous inner class a lambda(äÆ¹»
+C
+java:S1604E"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+C
+java:S1604s"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+?
+java:S1604·"(Make this anonymous inner class a lambda(Ğ¦ùş
+R	java:S110Š"<This class has 9 parents which is greater than 5 authorized.(Ø¹œ¢
+W	java:S110®"<This class has 9 parents which is greater than 5 authorized.(üŒì½ûÿÿÿÿ
+c	java:S101Š"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø¹œ¢
+h
+java:S1450*"RRemove the "app" field and declare it as a local variable in the relevant methods.(½ŸÔÏ
+V	java:S125#"<This block of commented-out lines of code should be removed.(®õº²ùÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(›æô
+Q	java:S125'"<This block of commented-out lines of code should be removed.(Ç¯Ç¼
+V	java:S1258"<This block of commented-out lines of code should be removed.(‰ˆÚùÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(Ü—Ø“üÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(ÂÍìÃùÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(ûº‹¹úÿÿÿÿ
+Q	java:S125c"<This block of commented-out lines of code should be removed.(Ó¡µÁ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(óÑ“Ë
+V	java:S125k"<This block of commented-out lines of code should be removed.(ôš‹şÿÿÿÿ
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(í•²ª
+V
+java:S1161‹":Add the "@Override" annotation above this method signature(Åäéøúÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(ÏŠÉâ
+R	java:S125œ"<This block of commented-out lines of code should be removed.(ò¥‹ë
+R	java:S125Á"<This block of commented-out lines of code should be removed.(îãñâ
+=
+java:S1068*"'Remove this unused "app" private field.(½ŸÔÏ

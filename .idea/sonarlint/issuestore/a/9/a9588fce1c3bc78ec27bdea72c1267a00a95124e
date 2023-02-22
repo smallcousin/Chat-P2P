@@ -1,0 +1,64 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(üÌªÌ
+[	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(Â¶Ä“
+`	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(åÂª¢ÿÿÿÿÿ
+D
+java:S1604‡"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+D
+java:S1604ª"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+D
+java:S1604»"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+D
+java:S1604Ô"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+D
+java:S1604ñ"(Make this anonymous inner class a lambda(ôâŠûıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹
+_
+java:S2259"HA "NullPointerException" could be thrown; "charBuffer" is nullable here.(„ı˜Ğ
+c
+java:S2095”"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¢Ÿ¦
+‡
+java:S1130"qRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from constructor's body.(üÌªÌ
+V	java:S125"<This block of commented-out lines of code should be removed.(›àÁ˜şÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ßâÄùÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¯µ²Ùùÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(É×Üªÿÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(¾Œÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(°ìş‡şÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Í¥ŠÌùÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(æÒã«üÿÿÿÿ
+S
+java:S1854k"8Remove this useless assignment to local variable "port".(À³‹üüÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ğ÷ÏŞ
+D
+java:S1481k")Remove this unused "port" local variable.(À³‹üüÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(¯µ²Ùùÿÿÿÿ
+M	java:S106p"9Replace this use of System.out or System.err by a logger.(‚š‰1
+V	java:S125|"<This block of commented-out lines of code should be removed.(æÒã«üÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ê±•¡ûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(æ¸ï‰
+W	java:S125•"<This block of commented-out lines of code should be removed.(²µ’Ìÿÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(‡¬êûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ïÜµæøÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(æÒã«üÿÿÿÿ
+N
+java:S1135¨"2Complete the task associated to this TODO comment.(ğà½·ÿÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(Ê±•¡ûÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(ïÜµæøÿÿÿÿ
+N
+java:S1135º"2Complete the task associated to this TODO comment.(ŞßÑÇÿÿÿÿÿ
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(¤şşá
+W	java:S125Ã"<This block of commented-out lines of code should be removed.(ïíæÓûÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(£Ÿ‰¹øÿÿÿÿ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ğ°Ğ­øÿÿÿÿ
+N
+java:S1135Ó"2Complete the task associated to this TODO comment.(ğÜ·Ñıÿÿÿÿ
+T	java:S106Ø"9Replace this use of System.out or System.err by a logger.(µş‘÷ùÿÿÿÿ
+T	java:S106İ"9Replace this use of System.out or System.err by a logger.(ó œÕüÿÿÿÿ
+R	java:S125ß"<This block of commented-out lines of code should be removed.(ÖÆ™¦
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(Æÿß½üÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(µş‘÷ùÿÿÿÿ
+W	java:S125ú"<This block of commented-out lines of code should be removed.(¡„ğÃşÿÿÿÿ
+T	java:S106ş"9Replace this use of System.out or System.err by a logger.(Æÿß½üÿÿÿÿ
+Q
+java:S4719…":Replace Charset.forName() call with StandardCharsets.UTF_8(Ã²®ë

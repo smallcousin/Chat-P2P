@@ -1,0 +1,25 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ğ»Ùÿÿÿÿÿ
+C
+java:S1604%"(Make this anonymous inner class a lambda(ß„›Õşÿÿÿÿ
+>
+java:S16041"(Make this anonymous inner class a lambda(ç
+C
+java:S1604>"(Make this anonymous inner class a lambda(ĞáÇÖÿÿÿÿÿ
+C
+java:S1604X"(Make this anonymous inner class a lambda(ùë²¥şÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ÊÔ•
+Q
+java:S2696 "6Make the enclosing method "static" or remove this set.(“¸–ëøÿÿÿÿ
+H
+java:S1135!"2Complete the task associated to this TODO comment.(Ä„õ
+M
+java:S1135""2Complete the task associated to this TODO comment.(ÔŒÖ‚øÿÿÿÿ
+M
+java:S1135#"2Complete the task associated to this TODO comment.(™š¥ºûÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ĞÌÏúÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Î”Ò¸ûÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(½ ±üÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(Üúıÿÿÿÿ
+Q	java:S125V"<This block of commented-out lines of code should be removed.(†ï°ó

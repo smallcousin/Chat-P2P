@@ -1,0 +1,9 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÛŒ¦…ýÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÀõ‘
+Q
+java:S1854"<Remove this useless assignment to local variable "userName".(õ¢þC
+B
+java:S1481"-Remove this unused "userName" local variable.(õ¢þC
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èå«¬

@@ -1,0 +1,16 @@
+
+s
+java:S1104"XMake serverSocket a static final constant or non-public and provide accessors if needed.(Þð ùþÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾©ò¹
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+R
+java:S2589K"7Remove this expression which always evaluates to "true"(úãŸˆøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÖÁŽ¹úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºƒœøÿÿÿÿ
+C
+java:S14815"(Remove this unused "len" local variable.(¤í´‚þÿÿÿÿ
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(ŽØør
+E
+java:S20930"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

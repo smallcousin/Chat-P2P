@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="550" prefWidth="840" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainController">
+   <children>
+      <VBox id="leftSide" alignment="TOP_CENTER" prefHeight="581.0" prefWidth="65.0" style="-fx-background-color: #363636; -fx-padding: 10;">
+         <children>
+            <ImageView fitHeight="42.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/yupi.jpg" />
+               </image></ImageView>
+         </children></VBox>
+      <VBox layoutX="65.0" prefHeight="581.0" prefWidth="234.0">
+         <children>
+            <HBox maxHeight="280.0" prefHeight="60.0" prefWidth="220.0" style="-fx-background-color: f2792c;">
+               <children>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="  CHAT">
+                     <font>
+                        <Font name="Bodoni MT Black Italic" size="48.0" />
+                     </font>
+                  </Text>
+               </children></HBox>
+            <ScrollPane maxHeight="8000" prefHeight="522.0" prefWidth="220.0">
+               <content>
+                  <ListView fx:id="userList" prefHeight="520.0" prefWidth="230.0" scaleShape="false" stylesheets="@style.css" />
+               </content>
+            </ScrollPane>
+         </children></VBox>
+      <VBox layoutX="296.0" prefHeight="581.0" prefWidth="544.0">
+         <children>
+            <HBox prefHeight="60.0" prefWidth="544.0" style="-fx-background-color: f2792c;" />
+            <ScrollPane prefHeight="385.0" prefWidth="550.0">
+               <content>
+                  <ListView fx:id="messages" cacheShape="false" centerShape="false" focusTraversable="false" pickOnBounds="false" prefHeight="382.0" prefWidth="542.0" scaleShape="false" stylesheets="@style.css" />
+               </content></ScrollPane>
+            <HBox prefHeight="27.0" prefWidth="544.0" />
+            <HBox prefHeight="87.0" prefWidth="544.0">
+               <children>
+                  <TextArea fx:id="msgSend" prefHeight="87.0" prefWidth="544.0" />
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_RIGHT" prefHeight="24.0" prefWidth="544.0" style="-fx-padding: 0 30 0 0;">
+               <children>
+                  <Button mnemonicParsing="false" onMouseClicked="#selectFile" text="..." />
+                  <Button mnemonicParsing="false" onMouseClicked="#sendFile" text="发送文件" />
+                  <Button mnemonicParsing="false" onMouseClicked="#send" text="发送消息" />
+               </children></HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
