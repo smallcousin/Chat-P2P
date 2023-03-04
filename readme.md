@@ -1,4 +1,4 @@
-# :mobile_phone_off: weChat-P2P
+# :mobile_phone_off: Chat-P2P
 
 基于java的socket实现的P2P在线交流平台，实现了在线实时交流和文件传输功能
 
